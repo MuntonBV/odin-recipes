@@ -3,12 +3,12 @@ body {
     font-family: 'Courier New', Courier, monospace;
 }
 
-h1 {
+.main {
     color: white;
     font-weight: bold;
     text-align: center;
 }
 
-ul {
+.links {
     text-align: center;
 }
