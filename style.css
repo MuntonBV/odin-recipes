@@ -1,0 +1,9 @@
+body {
+    background-color: cadetblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.h1 {
+    color: white;
+    font-weight: bold;
+}
